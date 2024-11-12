@@ -10,7 +10,7 @@ export const Navbar = () => {
 			<div className="ml-auto">
 				<div class="btn-group me-5" role="group">
 					<button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-						Dropdown
+						Favorites
 					</button>
 					<ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
 						<li><a class="dropdown-item" href="#">Dropdown link</a></li>
